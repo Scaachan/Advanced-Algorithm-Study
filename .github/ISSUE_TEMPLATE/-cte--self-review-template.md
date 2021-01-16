@@ -1,7 +1,7 @@
 ---
 name: "[CTE] Self Review Template"
 about: You can add or modify the contents.
-title: ''
+title: "[Week <#>] <problem> self review - <id>"
 labels: CTE
 assignees: ''
 
