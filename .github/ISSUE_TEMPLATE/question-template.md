@@ -8,5 +8,5 @@ assignees: ''
 ---
 
 ***
-- Related with :  <tag issue number>
+- Related to :  <tag issue number>
 ***
